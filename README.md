@@ -1,2 +1,2 @@
 # pos-food
-This is Pos Service.
+This is Pos Service for linux.
